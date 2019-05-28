@@ -1,21 +1,2 @@
-## 자바 과제- 성적 관리 프로그램
-
-- Preview
-
-![화면1](https://user-images.githubusercontent.com/44605894/58460683-17a8d300-8169-11e9-9f7d-d12724fd5f3a.PNG)
-![화면2](https://user-images.githubusercontent.com/44605894/58460684-19729680-8169-11e9-96c7-39bb27d39d07.PNG)
-
-
-
-- data 
-grade.javaa.txt
-grade.javab.txt
-student.javaa.txt
-student.javab.txt
-
-- source
-src/java_project
-Main
-Grade- 성적 관리 class
-Student- 학생 관리 class
+https://github.com/sora-12/JAVA_PROJECT/issues/1#issue-449116578
 
