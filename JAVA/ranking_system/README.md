@@ -1,7 +1,7 @@
 <h1> 골프 랭킹 시스템 <h1>
 
 
-- 자바 코드 파일 설명<br>
+*자바 코드 파일 설명
 
 Total2.java =>Main class,2015~2018 까지의 결과를 볼 수 있는 실행파일<br>
 Date-Minus.java=> 기간별 감가, 기간을 인수로 주면 그에 맞는 가중치 반환하는 class<br>
@@ -10,7 +10,7 @@ Worldrating_v.java=>순위에 따라 worldrating_vlaue를 부여하는 class<br>
 Decide_contest=>다음 대회의 선수 명단을 기준으로 대회 지수를 예측하는 class<br>
 
 
-- 작성된 csv 파일 설명<br>
+*작성된 csv 파일 설명<br>
 
 매 대회가 끝날 때 마다의 선수 rank 파일<br>
 count->worlratingvalue를 부여 받은 선수가 이 대회에 속해있는 count (대회지수를 결정하는 선수들 명 수 )<br>
